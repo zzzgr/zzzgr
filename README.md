@@ -7,5 +7,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyiidii&layout=compact&theme=radical)](https://github.com/wangyiidii)
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/wangyiidii/count.svg" />
 </p>
