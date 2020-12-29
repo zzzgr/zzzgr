@@ -7,6 +7,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyiidii&layout=compact&theme=radical)
 
 <p align="center"> 
-  Visitor count<br>
+  访客数<br>
   <img src="https://profile-counter.glitch.me/wangyiidii/count.svg" />
 </p>
